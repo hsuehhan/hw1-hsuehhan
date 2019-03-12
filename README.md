@@ -1,6 +1,6 @@
 # hw1
 
-### Name: Hsuehhan Han Lu
+### Name: 呂學翰 Hsuehhan Han Lu
 ### Student ID: 107352033
 
 ## cmd
