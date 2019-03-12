@@ -1,7 +1,7 @@
 # hw1
 
-### Name: [your name in Chinese or English]
-### Student ID: [your student ID]
+### Name: 呂學翰/Hsueh Han Lu
+### Student ID: 107352033
 
 ## cmd
 
